@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/JavaSearchEngineFrontend/static/js/main.d3325727.js",
+    "main.js": "/JavaSearchEngineFrontend/static/js/main.51ebe054.js",
     "static/media/icone-github-grise.png": "/JavaSearchEngineFrontend/static/media/icone-github-grise.aabf6c82d3d6513ca051.png",
     "index.html": "/JavaSearchEngineFrontend/index.html",
-    "main.d3325727.js.map": "/JavaSearchEngineFrontend/static/js/main.d3325727.js.map"
+    "main.51ebe054.js.map": "/JavaSearchEngineFrontend/static/js/main.51ebe054.js.map"
   },
   "entrypoints": [
-    "static/js/main.d3325727.js"
+    "static/js/main.51ebe054.js"
   ]
 }
