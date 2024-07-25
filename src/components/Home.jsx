@@ -7,7 +7,7 @@ function Home(){
     const [data, setData] = useState([]);
     const [crawlState, setCrawlState] = useState("");
     async function handleSubmit(event){
-        const url = "https://ec2-13-40-175-212.eu-west-2.compute.amazonaws.com:8443";
+        const url = "https://localhost:8443";
         event.preventDefault();
         setData([]);
         if(mode==="crawl" || mode==="deepcrawl"){
